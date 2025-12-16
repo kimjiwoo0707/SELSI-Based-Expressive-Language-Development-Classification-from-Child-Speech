@@ -154,8 +154,9 @@ Shifted Window 기반 구조를 통해 **다양한 스케일의 패턴을 효과
 ---
 
 ## 📰 프로젝트 전체 플로우차트
-![Flowchart](flow_chart.PNG)
+<img width="1494" height="548" alt="image" src="https://github.com/user-attachments/assets/4e27e0a8-915f-4bbc-8190-f77799c5b141" />
+
 
 ## 📰 웹 서비스 구현 영상
-![Web](wep_homepage.png)
-[▶ 영상 보기](wep.mp4)
+<img width="1557" height="851" alt="image" src="https://github.com/user-attachments/assets/53f77497-570c-4058-8d7f-477f296373c3" />
+[[▶ 영상 보기](wep.mp4)](https://github.com/jjiisoo/child-speech-classifier/blob/6788a99e662a9ea605ed4b36e6e09b10b4aa93de/wep.mp4)
