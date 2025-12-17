@@ -42,6 +42,6 @@ class SpeechImageDataset(Dataset):
         image = Image.open(self.data[idx]).convert('RGB')
         if self.transform:
             image = self.transform(image)
-        label = torch.tensor(self.labels[idx], dtype=torch.float32)  # one-hot
+        label = torch.tensor(self.labels[idx], dtype=torch.float32)
         subclass = self.subclass_info[idx]
         return image, label, subclass
