@@ -154,6 +154,11 @@ Shifted Window 기반 구조를 통해 **다양한 스케일의 패턴을 효과
 ## 📰 프로젝트 전체 플로우차트
 <img width="1494" height="548" alt="image" src="https://github.com/user-attachments/assets/4e27e0a8-915f-4bbc-8190-f77799c5b141" />
 
+---
+
+## 📰 웹 서비스 구현 영상
+[![▶ 영상 보기](https://github.com/user-attachments/assets/53f77497-570c-4058-8d7f-477f296373c3)](https://github.com/kimjiwoo0707/daw/raw/1c5840e76b2a0682a87a099ee94c868a3455b7dd/%EC%95%84%EB%8F%99%20%EC%9D%8C%EC%84%B1%20%EB%B6%84%EC%84%9D%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EA%B0%9C%20%EC%98%81%EC%83%81.mp4)
+
 
 ---
 
@@ -185,8 +190,3 @@ Shifted Window 기반 구조를 통해 **다양한 스케일의 패턴을 효과
 <img src="https://img.shields.io/badge/Flask-BAE6FD?style=for-the-badge&logo=flask&logoColor=white"/>
 
 </div>
-
-
-## 📰 웹 서비스 구현 영상
-[![▶ 영상 보기](https://github.com/user-attachments/assets/53f77497-570c-4058-8d7f-477f296373c3)](https://github.com/kimjiwoo0707/daw/raw/1c5840e76b2a0682a87a099ee94c868a3455b7dd/%EC%95%84%EB%8F%99%20%EC%9D%8C%EC%84%B1%20%EB%B6%84%EC%84%9D%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EA%B0%9C%20%EC%98%81%EC%83%81.mp4)
-
